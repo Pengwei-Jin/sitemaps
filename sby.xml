@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/install.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/quickstart.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/usage.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/reference.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/autotune.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/verilog.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/verific.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/license.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/index.rst.txt</loc>
+  <lastmod>2023-07-18T14:25:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/index.html</loc>
+  <lastmod>2025-05-06T10:49:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/install.rst.txt</loc>
+  <lastmod>2025-03-14T14:13:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/quickstart.rst.txt</loc>
+  <lastmod>2025-03-03T15:10:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/usage.rst.txt</loc>
+  <lastmod>2023-07-18T14:25:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/reference.rst.txt</loc>
+  <lastmod>2025-03-14T14:13:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/autotune.rst.txt</loc>
+  <lastmod>2024-09-27T12:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/verilog.rst.txt</loc>
+  <lastmod>2025-03-03T15:10:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/verific.rst.txt</loc>
+  <lastmod>2025-03-03T15:21:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yosyshq.readthedocs.io/projects/sby/en/latest/_sources/license.rst.txt</loc>
+  <lastmod>2023-02-08T17:00:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
